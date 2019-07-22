@@ -1,7 +1,23 @@
-h1 {color: rgb(95, 53, 209);}
-h2 {color: rgb(95, 53, 209);}
-body {background-color: whitesmoke}
+body {background-color: whitesmoke;}
+.res_top {margin-top: 200px;
+        margin-bottom: 100px;
+        background-color: 96, 55, 209;
+        font-family: 'Satisfy', cursive;
+        color: solid green;
+        margin: auto;
+        font-size: 50px;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLhTH6Gqi5Klfb7WqI-z6IWzBHW0Yp2i1MDIgeh1mN3QPKZ2CxQ)}
+
+h1 {color: rgb(96, 55, 209);font-family: 'Satisfy', cursive;
+;}
+h2 {color: rgb(95, 53, 209);  font-family: 'Satisfy', cursive;
+}
+p {
+font-family: 'Open Sans', sans-serif;}
+
 example. { width: 300px;
   border: 15px solid green;
   padding: 50px;
  margin: 20px;}
+
+
